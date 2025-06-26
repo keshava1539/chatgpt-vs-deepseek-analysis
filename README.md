@@ -24,8 +24,7 @@ This project analyzes and compares the performance of two AI models — *ChatGPT
 
 ## 📁 Files
 - Team14_Presentation.pptx: Final project presentation
-- 14.csv: Synthetic dataset of AI performance (10,000+ rows)
-- Forecasting & analysis scripts (if available)
+- Forecasting & analysis script (final.ipynb)
 
 ## 📅 Timeline
 Project completed as part of CS209 – Artificial Intelligence, under Prof. Dileep A.D (May 2024)
