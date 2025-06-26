@@ -1,4 +1,4 @@
-# chatgpt-vs-deepseek-analysis
+
 # ChatGPT vs DeepSeek: Comparative AI Performance Analysis
 
 ## 📊 Overview
